@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Project specific artifacts
+project_context.md
+.artifacts/
